@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nico1aseth.github.io/sitemap.xml
+Sitemap: https://wangnicolas.github.io/sitemap.xml
