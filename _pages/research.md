@@ -2,8 +2,11 @@
 layout: page
 permalink: /research/
 title: research
+description: "oral presentation & works"
 nav: true
 nav_order: 2
+_styles: >
+  hr { border: 0; border-top: 1px solid var(--global-divider-color); height: 0; }
 ---
 
 <hr>
