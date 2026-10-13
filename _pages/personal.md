@@ -7,4 +7,4 @@ nav: true
 nav_order: 6
 ---
 
-<video src="/assets/video/new-cc.mp4" width="300" controls playsinline preload="metadata" style="max-width: 100%;"></video>
+<video src="/assets/video/new-cc.mp4" width="300" autoplay muted loop playsinline controls style="max-width: 100%;"></video>
